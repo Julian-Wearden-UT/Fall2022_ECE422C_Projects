@@ -1,0 +1,20 @@
+#continueAsGuestButton{
+	-fx-background-color: "transparent";
+}
+
+#continueAsGuestButton:hover{
+	-fx-text-fill: #2b63d6;
+	-fx-underline: true;
+}
+
+#logInButton{
+	-fx-background-color: #2b63d6;
+	-fx-text-fill: white;
+}
+
+#logInButton:hover{
+	-fx-background-color: #5a85dd;
+}
+
+
+

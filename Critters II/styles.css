@@ -1,0 +1,75 @@
+/*
+ * CRITTERS style.css
+ * EE422C Project 5 submission by
+ * Replace <...> with your actual data.
+ * Julian Wearden
+ * jfw864
+ * 17615
+ * Benjamin Huynh
+ * bth882
+ * 17620
+ * Slip days used: <1>
+ * Fall 2022
+ */
+ 
+.button{
+	-fx-font: 16px "inter";
+	-fx-font-weight: bold;
+	
+}
+.text-field{
+	-fx-font: 12px "inter";
+	-fx-pref-width: 200px;
+}
+
+.drawer{
+	-fx-background-color: #E6C363;
+}
+.drawer:hover{
+	-fx-background-color: #F3E1B1;
+}
+.drawer:pressed{
+	-fx-background-color: #E6C363;
+}
+
+.animate{
+	-fx-background-color: #6DA394;
+}
+.animate:hover{
+	-fx-background-color: #B6D1CA;
+}
+.animate:pressed{
+	-fx-background-color: #6DA394;
+}
+
+.normal{
+	-fx-background-color: #E8E2A9;
+}
+.normal:hover{
+	-fx-background-color: #F4F1D4;
+}
+.normal:pressed{
+	-fx-background-color: #E8E2A9;
+}
+
+.clear{
+	-fx-background-color: #C2C2C2;
+}
+.clear:hover{
+	-fx-background-color: #E5E5E5;
+}
+.clear:pressed{
+	-fx-background-color: #C2C2C2;
+}
+
+.quit{
+	-fx-background-color: #D46853;
+}
+.quit:hover{
+	-fx-background-color: #DD8675;
+}
+.quit:pressed{
+	-fx-background-color: #D46853;
+}
+
+
