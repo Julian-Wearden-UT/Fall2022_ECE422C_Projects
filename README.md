@@ -1,5 +1,9 @@
 # ECE422C Software Design and Implementation II Projects
 
+## Academic Integrity Disclaimer
+
+*This repository was uploaded as documentation of work completed by our team in CS329E: Elements of Web Programming. Students that are currently enrolled in the course are not authorized to view the contents of this repository at risk of violating the University of Texas Honor Code. If you would like more information about this project, please email me at julianwearden@utexas.edu*
+
 ## Projects Overview
 
 ### Sort Tools
@@ -23,3 +27,6 @@ A simulation of ticket offices for an airline that uses multithreading to allow 
 ### eHills
 An online auction server and client that uses Java Server and Client sockets, multithreading, JavaFX graphics, data structures, and OOP concepts.
 
+##
+###### This project was completed at UT Austin in the Fall of 2022 by: 
+###### <a href="mailto:julianwearden@utexas.edu">Julian Wearden
