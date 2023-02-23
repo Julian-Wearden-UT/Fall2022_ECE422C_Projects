@@ -1,4 +1,4 @@
-# eHills
+# Mastermind
 
 ## Academic Integrity Disclaimer
 

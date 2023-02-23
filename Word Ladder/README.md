@@ -1,4 +1,4 @@
-# eHills
+# Word Ladder
 
 ## Academic Integrity Disclaimer
 
