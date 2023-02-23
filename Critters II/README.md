@@ -12,4 +12,4 @@ Graphical User Interface created for project:
 
 ##
 ###### This project was completed at UT Austin in the Fall of 2022 and approved for GitHub publishing by: 
-###### <a href="mailto:julianwearden@utexas.edu">Julian Wearden/a<> • Benjamin Huynh
+###### <a href="mailto:julianwearden@utexas.edu">Julian Wearden</a> • Benjamin Huynh
