@@ -29,4 +29,4 @@ An online auction server and client that uses Java Server and Client sockets, mu
 
 ##
 ###### This project was completed at UT Austin in the Fall of 2022 by: 
-###### <a href="mailto:julianwearden@utexas.edu">Julian Wearden
+###### <a href="mailto:julianwearden@utexas.edu">Julian Wearden</a>
